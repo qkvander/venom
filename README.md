@@ -1,8 +1,8 @@
-# venom - учебный проект qkvander
-## Проект выполнил: Борисов Кирилл
+# Venom 2 / 08.09.21
+## Created by qkvander / Borisov K.
 
-В проекте используются:
-- HTML
-- CSS
-- JavaScript
-- Normalize
+Used technologies:
+<li>HTML</li>
+<li>CSS</li>
+<li>JavaScript</li>
+<li>Normalize</li>
