@@ -2,7 +2,7 @@
 ## Created by qkvander / Borisov K.
 
 >Used technologies:
-<li>HTML</li>
-<li>CSS</li>
-<li>JavaScript</li>
-<li>Normalize</li>
+><li>HTML</li>
+><li>CSS</li>
+><li>JavaScript</li>
+><li>Normalize</li>
